@@ -1,0 +1,21 @@
+
+.style1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+body {
+	background-color: #FFF154;
+}
+.caption {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	color: #dc7f07;
+}
+.style2 {
+	font-family: "Trebuchet MS";
+	color: #CC3300;
+}
+.style3 {color: #0066CC}
+.style4 {color: #666666}
+.style5 {font-family: "Trebuchet MS"; color: #333333; }
